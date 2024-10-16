@@ -15,7 +15,7 @@ import { CountdownTimer } from "nextjs-countdown-timer";
 import { Button } from "./ui/button";
 import Link from "next/link";
 
-let MAX_QUESTIONS = 30;
+const MAX_QUESTIONS = 30;
 interface Question {
   id: string;
   question: string;
