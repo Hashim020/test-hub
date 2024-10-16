@@ -46,8 +46,7 @@ npm install
 Run App
 
 ```bash
-cd ../client
-npm install
+
 npm run dev
 
 ```
